@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/charithma-dassanayake-aa6a04314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
+  <a href="https://www.hackerrank.com/profile/charithmadas" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="mailto:charithmadas@gmail.com">
